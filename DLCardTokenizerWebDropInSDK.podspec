@@ -8,5 +8,5 @@ Pod::Spec.new do |spec|
     spec.license      = { :type => 'Custom', :file => 'LICENSE.md' }
     spec.platform     = :ios
     spec.ios.deployment_target = '13.0'
-    spec.vendored_framework = "DLCardTokenizerWebDropInSDK.xcframework"
+    spec.ios.vendored_frameworks = "DLCardTokenizerWebDropInSDK.xcframework"
 end

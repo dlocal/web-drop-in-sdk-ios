@@ -1,8 +1,6 @@
 # DLCardTokenizer SDK
 The CardTokenizer SDK allows to tokenize a credit card for merchants that require the lower level of PCI compliance.
 
-## Table of Contents (TODO)
-
 ## Requirements
 - Xcode 13+
 - Supports iOS 13 or higher
@@ -10,6 +8,12 @@ The CardTokenizer SDK allows to tokenize a credit card for merchants that requir
 ## Installation
 
 ### CocoaPods
+
+Add the following to your `Podfile`:
+
+```
+pod 'DLCardTokenizerWebDropInSDK'
+```
 
 ## How to use
 
