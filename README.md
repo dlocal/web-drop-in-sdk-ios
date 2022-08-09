@@ -146,9 +146,6 @@ input.style.cardAnimation = false
 // Set button text and background color (default is white text with blue background)
 input.style.button.textColor = "#ff0000"
 input.style.button.backgroundColor = "#a154ce"
-
-// Set close button bar position (defaults to right)
-input.style.closeButtonPosition = .left
 ```
 
 ```objc
@@ -166,9 +163,6 @@ input.style.cardAnimation = true;
 // Set button text and background color (default is white text with blue background)
 input.style.button.textColor = @"#ffffff";
 input.style.button.backgroundColor = @"#2b6be9";
-
-// Set close button bar position (defaults to right)
-input.style.closeButtonPosition = DLBarButtonPositionLeft
 
 ```
 
